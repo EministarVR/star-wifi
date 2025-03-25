@@ -68,7 +68,7 @@ Mit Liebe entwickelt, von der Community für die Community! 💖
 
 ## **Lizenzen und Credits**
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert – das bedeutet, du kannst es nach Herzenslust verwenden, ändern und weitergeben!
+Dieses Projekt ist unter einer extra angepassten Lizenz lizenziert.
 
 ---
 
