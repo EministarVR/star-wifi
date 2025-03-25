@@ -6,6 +6,8 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.2-purple) ![License](https://img.shields.io/badge/license-MIT-purple) ![Stars](https://img.shields.io/github/stars/eministarvr/star-wifi?style=social)
 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+
 ---
 
 ## **Was ist StarWifi?**
@@ -26,6 +28,14 @@ StarWifi ist ein Tool, das dir hilft, gespeicherte WLAN-Netzwerke und deren Pass
 
 ### **3. Dein erstes Programm**
 Sobald du die **StarWifi.exe** gestartet hast, öffnet sich eine einfache Oberfläche, die dir alle gespeicherten WLAN-Netzwerke anzeigt. Du kannst die Netzwerknamen und deren Passwörter direkt einsehen.
+
+---
+
+## **Verwendete Programmiersprachen und Technologien**
+
+- **Python**: Die Hauptsprache, in der StarWifi geschrieben wurde.
+- **Tkinter**: Für die GUI (Graphical User Interface), die dir hilft, die Netzwerke visuell anzuzeigen.
+- **Windows APIs**: Zur Interaktion mit dem Windows-System, um die gespeicherten WLAN-Netzwerke zu extrahieren.
 
 ---
 
@@ -65,5 +75,18 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert – das bedeutet, du kannst e
 ## **Lasst uns das rocken!**
 
 StarWifi ist nicht nur ein Projekt – es ist eine Bewegung! 🔥 Wenn du diese Anwendung genauso liebst wie wir, dann lass uns zusammen noch mehr damit anstellen!
+---
+## *Mit Liebe entwickelt von*
+```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@ /$$$$$$$$               /$$           /$$             /$$                         /$$    /$$ /$$$$$$$ @
+@| $$_____/              |__/          |__/            | $$                        | $$   | $$| $$__  $$@
+@| $$       /$$$$$$/$$$$  /$$ /$$$$$$$  /$$  /$$$$$$$ /$$$$$$    /$$$$$$   /$$$$$$ | $$   | $$| $$  \ $$@
+@| $$$$$   | $$_  $$_  $$| $$| $$__  $$| $$ /$$_____/|_  $$_/   |____  $$ /$$__  $$|  $$ / $$/| $$$$$$$/@
+@| $$__/   | $$ \ $$ \ $$| $$| $$  \ $$| $$|  $$$$$$   | $$      /$$$$$$$| $$  \__/ \  $$ $$/ | $$__  $$@
+@| $$      | $$ | $$ | $$| $$| $$  | $$| $$ \____  $$  | $$ /$$ /$$__  $$| $$        \  $$$/  | $$  \ $$@
+@| $$$$$$$$| $$ | $$ | $$| $$| $$  | $$| $$ /$$$$$$$/  |  $$$$/|  $$$$$$$| $$         \  $/   | $$  | $$@
+@|________/|__/ |__/ |__/|__/|__/  |__/|__/|_______/    \___/   \_______/|__/          \_/    |__/  |__/@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
 
-*Mit Liebe entwickelt, von der Community für die Community! 💖*
