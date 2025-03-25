@@ -1,6 +1,6 @@
 # **StarWifi**  
 
-<img src="logo.png" alt="StarWifi Logo" width="150"/>
+<img src="logo.ico" alt="StarWifi Logo" width="150"/>
 
 **Zeigt gespeicherte WLAN-Netzwerke und deren Passwörter an.**
 
